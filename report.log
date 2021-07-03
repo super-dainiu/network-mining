@@ -1,0 +1,606 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.18)  4 JUL 2021 03:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(d:/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(d:/texlive/2020/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(d:/texlive/2020/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count175
+\c@Blindtext=\count176
+\c@blind@countparstart=\count177
+\blind@countxx=\count178
+\blindtext@numBlindtext=\count179
+\blind@countyy=\count180
+\c@blindlist=\count181
+\c@blindlistlevel=\count182
+\c@blindlist@level=\count183
+\blind@listitem=\count184
+\c@blind@listcount=\count185
+\c@blind@levelcount=\count186
+\blind@mathformula=\count187
+\blind@Mathformula=\count188
+\c@blind@randomcount=\count189
+\c@blind@randommax=\count190
+\c@blind@pangramcount=\count191
+\c@blind@pangrammax=\count192
+)
+(d:/texlive/2020/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen135
+\lightrulewidth=\dimen136
+\cmidrulewidth=\dimen137
+\belowrulesep=\dimen138
+\belowbottomsep=\dimen139
+\aboverulesep=\dimen140
+\abovetopsep=\dimen141
+\cmidrulesep=\dimen142
+\cmidrulekern=\dimen143
+\defaultaddspace=\dimen144
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen145
+\@belowrulesep=\dimen146
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen147
+)
+(d:/texlive/2020/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(d:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count197
+\rotFPtop=\skip50
+\rotFPbot=\skip51
+\rot@float@box=\box45
+\rot@mess@toks=\toks16
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen150
+))
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count269
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks18
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks19
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks20
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks27
+)
+(d:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip58
+\f@nch@O@elh=\skip59
+\f@nch@O@erh=\skip60
+\f@nch@O@olh=\skip61
+\f@nch@O@orh=\skip62
+\f@nch@O@elf=\skip63
+\f@nch@O@erf=\skip64
+\f@nch@O@olf=\skip65
+\f@nch@O@orf=\skip66
+)
+(d:/texlive/2020/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(d:/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count276
+\float@exts=\toks28
+\float@box=\box48
+\@float@everytoks=\toks29
+\@floatcapt=\box49
+)
+\@float@every@algorithm=\toks30
+\c@algorithm=\count277
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count278
+\lst@gtempboxa=\box50
+\lst@token=\toks31
+\lst@length=\count279
+\lst@currlwidth=\dimen159
+\lst@column=\count280
+\lst@pos=\count281
+\lst@lostspace=\dimen160
+\lst@width=\dimen161
+\lst@newlines=\count282
+\lst@lineno=\count283
+\lst@maxwidth=\dimen162
+
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count284
+\lst@skipnumbers=\count285
+\lst@framebox=\box51
+)
+(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(d:/texlive/2020/texmf-dist/tex/latex/caption/caption2.sty
+Package: caption2 2020/01/02 v2.2e Customising captions (AR)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(d:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen163
+\captionmargin@=\dimen164
+\captionwidth=\dimen165
+\caption@tempdima=\dimen166
+\caption@indent=\dimen167
+\caption@parindent=\dimen168
+\caption@hangindent=\dimen169
+Package caption Info: Standard document class detected.
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 220.
+\captionlinewidth=\dimen170
+\realcaptionwidth=\dimen171
+Package caption2 Info: float package v1.2 (or newer) detected on input line 329
+.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip67
+\subfigcapskip=\skip68
+\subfigcaptopadj=\dimen172
+\subfigbottomskip=\skip69
+\subfigcapmargin=\dimen173
+\subfiglabelskip=\skip70
+\c@subfigure=\count286
+\c@lofdepth=\count287
+\c@subtable=\count288
+\c@lotdepth=\count289
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(d:/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip71
+\subfig@bottom=\skip72
+)
+(d:/texlive/2020/texmf-dist/tex/latex/extpfeil/extpfeil.sty
+Package: extpfeil 2009/10/31 v0.4 Extensible Pfeile (PE)
+
+(d:/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(d:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count290
+\calc@Bcount=\count291
+\calc@Adimen=\dimen174
+\calc@Bdimen=\dimen175
+\calc@Askip=\skip73
+\calc@Bskip=\skip74
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count292
+\calc@Cskip=\skip75
+)
+(d:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count293
+\l_MT_multwidth_dim=\dimen176
+\origjot=\skip76
+\l_MT_shortvdotswithinadjustabove_dim=\dimen177
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen178
+\l_MT_above_intertext_sep=\dimen179
+\l_MT_below_intertext_sep=\dimen180
+\l_MT_above_shortintertext_sep=\dimen181
+\l_MT_below_shortintertext_sep=\dimen182
+\xmathstrut@box=\box52
+\xmathstrut@dim=\dimen183
+)
+(d:/texlive/2020/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks32
+\footnotemargin=\dimen184
+\c@pp@next@reset=\count294
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(d:/texlive/2020/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(d:/texlive/2020/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count295
+\c@ALG@rem=\count296
+\c@ALG@nested=\count297
+\ALG@tlm=\skip77
+\ALG@thistlm=\skip78
+\c@ALG@Lnr=\count298
+\c@ALG@blocknr=\count299
+\c@ALG@storecount=\count300
+\c@ALG@tmpcounter=\count301
+\ALG@tmplength=\skip79
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+\c@theorem=\count302
+ (d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count303
+\l__pdf_internal_box=\box53
+)
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
+LaTeX Font Info:    ... okay on input line 92.
+ (d:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count304
+\scratchdimen=\dimen185
+\scratchbox=\box54
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen186
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks34
+) (d:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(d:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(d:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(d:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(d:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(d:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(d:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count310
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
+
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 9
+3.
+
+(d:/texlive/2020/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+<torch.jpg, id=1, 167.87718pt x 57.96657pt>
+File: torch.jpg Graphic file (type jpg)
+<use torch.jpg>
+Package pdftex.def Info: torch.jpg  used on input line 108.
+(pdftex.def)             Requested size: 117.43875pt x 40.55066pt.
+<neo4j.jpg, id=2, 276.28218pt x 103.13531pt>
+File: neo4j.jpg Graphic file (type jpg)
+<use neo4j.jpg>
+Package pdftex.def Info: neo4j.jpg  used on input line 111.
+(pdftex.def)             Requested size: 93.94957pt x 35.07025pt.
+<graphs/overview.PNG, id=3, 633.567pt x 542.025pt>
+File: graphs/overview.PNG Graphic file (type png)
+<use graphs/overview.PNG>
+Package pdftex.def Info: graphs/overview.PNG  used on input line 120.
+(pdftex.def)             Requested size: 140.92793pt x 120.56088pt.
+<citeseer/louvain.PNG, id=5, 558.28575pt x 513.71925pt>
+File: citeseer/louvain.PNG Graphic file (type png)
+<use citeseer/louvain.PNG>
+Package pdftex.def Info: citeseer/louvain.PNG  used on input line 124.
+(pdftex.def)             Requested size: 117.43875pt x 108.06451pt.
+ [1
+
+{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./torch.jpg> <.
+/neo4j.jpg>]
+Overfull \hbox (31.46739pt too wide) in paragraph at lines 141--141
+ [][] 
+ []
+
+
+Overfull \hbox (23.55905pt too wide) in paragraph at lines 154--154
+ [][] 
+ []
+
+<graphs/zipf's law1.PNG, id=19, 390.45876pt x 262.9825pt>
+File: graphs/zipf's law1.PNG Graphic file (type png)
+<use graphs/zipf's law1.PNG>
+Package pdftex.def Info: graphs/zipf's law1.PNG  used on input line 167.
+(pdftex.def)             Requested size: 105.69415pt x 71.18678pt.
+<graphs/zipf's law.PNG, id=20, 390.45876pt x 266.9975pt>
+File: graphs/zipf's law.PNG Graphic file (type png)
+<use graphs/zipf's law.PNG>
+Package pdftex.def Info: graphs/zipf's law.PNG  used on input line 172.
+(pdftex.def)             Requested size: 105.69415pt x 72.2736pt.
+[2 <./graphs/overview.PNG> <./citeseer/louvain.PNG>]
+Overfull \hbox (21.91026pt too wide) in paragraph at lines 189--189
+ [][] 
+ []
+
+<graphs/eigenvector centrality.PNG, id=26, 361.35pt x 357.13425pt>
+File: graphs/eigenvector centrality.PNG Graphic file (type png)
+<use graphs/eigenvector centrality.PNG>
+Package pdftex.def Info: graphs/eigenvector centrality.PNG  used on input line 
+194.
+(pdftex.def)             Requested size: 105.69415pt x 104.45998pt.
+
+Overfull \hbox (7.79553pt too wide) in paragraph at lines 209--209
+ [][] 
+ []
+
+
+Overfull \hbox (11.53677pt too wide) in paragraph at lines 231--231
+ [][] 
+ []
+
+[3 <./graphs/zipf's law1.png> <./graphs/zipf's law.png> <./graphs/eigenvector c
+entrality.PNG>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 7728 strings out of 480608
+ 110875 string characters out of 5907536
+ 363902 words of memory out of 5000000
+ 23440 multiletter control sequences out of 15000+600000
+ 548376 words of font info for 84 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,15n,45p,1147b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/texlive/2020/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/
+texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pf
+b><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on report.pdf (3 pages, 1622858 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
