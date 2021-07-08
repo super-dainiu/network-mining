@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.18)  4 JUL 2021 03:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.18)  4 JUL 2021 22:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -576,31 +576,59 @@ Overfull \hbox (11.53677pt too wide) in paragraph at lines 231--231
  []
 
 [3 <./graphs/zipf's law1.png> <./graphs/zipf's law.png> <./graphs/eigenvector c
-entrality.PNG>] (./report.aux) ) 
+entrality.PNG>]
+<graphs/louvain2.PNG, id=38, 542.025pt x 423.984pt>
+File: graphs/louvain2.PNG Graphic file (type png)
+<use graphs/louvain2.PNG>
+Package pdftex.def Info: graphs/louvain2.PNG  used on input line 281.
+(pdftex.def)             Requested size: 117.43875pt x 91.85994pt.
+ [4 <./graphs/louvain2.PNG>]
+<graphs/subgraph.PNG, id=45, 595.62524pt x 516.12825pt>
+File: graphs/subgraph.PNG Graphic file (type png)
+<use graphs/subgraph.PNG>
+Package pdftex.def Info: graphs/subgraph.PNG  used on input line 320.
+(pdftex.def)             Requested size: 63.41713pt x 54.94716pt.
+ [5 <./graphs/subgraph.PNG>]
+<graphs/GIC.PNG, id=50, 277.035pt x 270.41025pt>
+File: graphs/GIC.PNG Graphic file (type png)
+<use graphs/GIC.PNG>
+Package pdftex.def Info: graphs/GIC.PNG  used on input line 342.
+(pdftex.def)             Requested size: 117.43875pt x 114.6278pt.
+
+[6] [7 <./graphs/GIC.png>]
+<graphs/Comparison.PNG, id=60, 479.7925pt x 421.575pt>
+File: graphs/Comparison.PNG Graphic file (type png)
+<use graphs/Comparison.PNG>
+Package pdftex.def Info: graphs/Comparison.PNG  used on input line 377.
+(pdftex.def)             Requested size: 129.18333pt x 113.50513pt.
+ [8 <./graphs/Comparison.png>] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 7728 strings out of 480608
- 110875 string characters out of 5907536
- 363902 words of memory out of 5000000
- 23440 multiletter control sequences out of 15000+600000
- 548376 words of font info for 84 fonts, out of 8000000 for 9000
+ 7769 strings out of 480608
+ 111577 string characters out of 5907536
+ 364902 words of memory out of 5000000
+ 23474 multiletter control sequences out of 15000+600000
+ 549226 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,15n,45p,1147b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/texlive/2020/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
-.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/
-texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><d:/texlive/20
-20/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2020/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pf
-b><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on report.pdf (3 pages, 1622858 bytes).
+ 41i,15n,45p,2714b,277s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/texlive/2020/texmf-dist/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texli
+ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/texlive/2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><d:/texlive/2020/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr9.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d
+:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><d:/texlive
+/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/texlive/2020/tex
+mf-dist/fonts/type1/public/stmaryrd/stmary10.pfb>
+Output written on report.pdf (8 pages, 2599969 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 116 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
